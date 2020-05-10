@@ -5,6 +5,10 @@
 [![Lienol](https://img.shields.io/badge/Package-Lienol-blueviolet.svg?style=flat&logo=appveyor)](https://github.com/Lienol/openwrt-package)
 [![CTCGFW](https://img.shields.io/badge/OpenWrt-CTCGFW-orange.svg?style=flat&logo=appveyor)](https://github.com/project-openwrt/openwrt)
 
+>固件下载：
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/Draco-china/OpenWrt-Actions-LeanAndSnapshot?style=for-the-badge&label=Download)](https://github.com/Draco-china/OpenWrt-Actions-LeanAndSnapshot/releases/latest)
+
+
 ## 简介 (基于Template)
 
 - 通用 OpenWrt 定制项目
@@ -20,6 +24,7 @@
 
 - 若 Fork 项目，请修改代码中自己的 TOKEN ( 项目 Settings/Secrets )
 - 将需要的机型配置文件复制到根目录下(包含文件夹) 或者 直接修改`./github/workflows`下的配置文件目录地址
+
 | TOKEN             | 释义                                                            |
 | :---------------- | :-------------------------------------------------------------- |
 | -- EMAIL          | Github用户邮箱                                                  |
@@ -60,9 +65,6 @@
 | -- CREATE_RELEASE: true                                     | 是否创建发行版本 Release             |
 | -- BUILD_USER: Draco-china                                  | 定义编译者                           |
 | -- SEND_WECHAT_MSG: false                                   | 是否微信通知                         |
-
->固件下载：
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/Draco-china/OpenWrt-Actions-LeanAndSnapshot?style=for-the-badge&label=Download)](https://github.com/Draco-china/OpenWrt-Actions-LeanAndSnapshot/releases/latest)
 
 ## 来杯咖啡
 
