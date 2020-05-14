@@ -68,4 +68,4 @@
 
 ## 来杯咖啡
 
-![](https://raw.githubusercontent.com/Draco-china/OpenWrt-Actions-LeanAndSnapshot/master/.github/Sponsor.png)
+![](https://github.com/Draco-china/OpenWrt-Actions-LeanAndSnapshot/blob/master/.github/Sponsor.png)
